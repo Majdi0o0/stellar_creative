@@ -11,7 +11,7 @@
   text-align: center;
   min-height: 100vh;
   width: 100%;
-  background-image: url(/images/space-wallpaper.jpg);
+  background-image: url(../images/space-wallpaper.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -321,3 +321,4 @@
 .portfolio-card:hover img {
   opacity: 1;
 }
+
